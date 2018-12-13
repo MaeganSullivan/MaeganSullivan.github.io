@@ -1,0 +1,16 @@
+.profile-pic {
+	width: 170px;
+	height: 200px;
+}
+html {
+  background-color: #ADD8E6
+}
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.progress progress-success {color: blue;}
+
+.navbar {
+  background: #ADD8E6 }
